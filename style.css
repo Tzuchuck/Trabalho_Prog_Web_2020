@@ -1,0 +1,14 @@
+.texto {
+    text-align: center;
+}
+
+.botao {
+    text-align: center;
+}
+
+.thumbnail{
+    max-width:50px;
+    max-height:15px;
+    width: auto;
+    height: auto;
+}
