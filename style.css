@@ -1,14 +1,14 @@
 .texto {
+    text-align: center; 
+    font-size: 22px;
+    
+}
+
+.botao {  
     text-align: center;
 }
 
-.botao {
+.card{
     text-align: center;
-}
-
-.thumbnail{
-    max-width:50px;
-    max-height:15px;
-    width: auto;
-    height: auto;
+    
 }
